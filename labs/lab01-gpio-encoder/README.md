@@ -2,9 +2,9 @@
 
 ## Goal
 Get comfortable with the STM32F407 Discovery board and basic I/O:
-- blink onboard LED using HAL GPIO
-- measure rotary encoder signals with a logic analyzer
-- decode rotation direction and change LED output accordingly
+- Blink onboard LED using HAL GPIO
+- Measure rotary encoder signals with a logic analyzer
+- Decode rotation direction and change LED output accordingly
 
 ## What I Implemented
 - GPIO output control to blink LED3 using `HAL_GPIO_WritePin` + `HAL_Delay`
