@@ -14,7 +14,7 @@ A structured set of embedded systems labs completed on the STM32F407 Discovery b
 
 ## Repo Structure
 - `labs/` — each lab has its own README 
-- `docs/` — PDFs of lab reports (optional to include)
+- `docs/` — PDFs of lab reports
 - `media/` — screenshots/photos (logic analyzer, oscilloscope, LCD output)
 
 ## Hardware & Tools
